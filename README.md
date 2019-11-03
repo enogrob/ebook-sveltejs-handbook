@@ -4,7 +4,7 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# eBook project
+# eBook Svelte.js Handbook
 
 ![ebook image](assets/ebook.png)
 
@@ -12,8 +12,24 @@ Solution Integrator Experienced - Certified by Ericsson
 
 Learn everything you need to about the subject of this `eBook` project.
 
-[Homepage](https://ebook.com)
+[Homepage](https://flaviocopes.com)
 
 ## Topics
 ```
+[ ] Preface
+[ ] Introduction to Svelte
+[ ] Svelte Components
+[ ] Handling State in Svelte
+[ ] Svelte Components
+[ ] Svelte Reactivity
+[ ] Svelte Props
+[ ] Cross-component State Management in Svelte
+[ ] Slots
+[ ] Svelte lifecycle events
+[ ] Svelte Bindings
+[ ] Conditional logic in Templates
+[ ] Looping in Svelte Templates
+[ ] Promises in Svelte Templates
+[ ] Working with Events in Svelte
+[ ] Where Do We Go From Here
 ```
