@@ -1,4 +1,4 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/enogrob/ebook-project/master)
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/enogrob/ebook-sveltejs-handbook/master)
 ```
 Roberto Nogueira  
 BSd EE, MSd CE
@@ -16,8 +16,9 @@ Learn everything you need to about the subject of this `eBook` project.
 
 ## Topics
 ```
-[ ] Preface
-[ ] Introduction to Svelte
+[x] Preface
+[x] Introduction to Svelte
+[x] How to get started with Svelte
 [ ] Svelte Components
 [ ] Handling State in Svelte
 [ ] Svelte Components
